@@ -1,0 +1,9 @@
+{
+	"name": "adf-real-time-de-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69091096-2fd5-46b0-9a2e-5515dd97f2d7",
+		"tenantId": "12708579-bd3d-4f4b-8e0c-1aabd6dfcb5b"
+	}
+}
